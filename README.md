@@ -1,4 +1,5 @@
-# ANN-DL-PRJThe complete dataset folder structure is explain in DirectoryStructure.png file. 
+
+The complete dataset folder structure is explain in DirectoryStructure.png file. 
 In this dataset we have collected two types of images that contain RBC elements.
 1) Healthy Images
 2) Anemic Images
