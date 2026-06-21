@@ -2,8 +2,8 @@
 
 Custom CNNs (3/4/5 layers), Transfer Learning (MobileNetV2, ResNet18, DenseNet121), and Explainable AI (Grad-CAM) for blood smear anemia classification (Anemic vs Healthy).
 
-**Name:** <Your Name>
-**SRN:** <Your SRN>
+**Name:** <NIMRA SAEED>
+**SRN:** <303231009>
 
 ---
 
